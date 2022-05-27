@@ -1,5 +1,19 @@
 # LeaN: Learning eNvironment
 
+
+## 🐾 Demo
+Link: [Heroku](https://pbp-tk-e04.herokuapp.com)
+
+### Murid
+Username: student1 <br/>
+Password: ma1234ma
+
+### Guru
+Username: teacher1 <br/>
+Password: ma1234ma
+
+<br></br>
+
 ## 🤖 Latar Belakang
 Kelompok kami membuat aplikasi dalam bidang E-Learning bernama LeaN (Learning Environment) yang menawarkan pengalaman pembelajaran yang optimal berbasis online. Pada masa pandemi seperti ini, pembelajaran berbasis online memberikan dampak yang signifikan bagi pendidikan di Indonesia. Adanya teknologi yang dapat membantu pembelajaran online akan sangat membantu perkembangan pendidikan jenjang SD, SMP, dan SMA pada masa pandemi in. Aplikasi LeaN sendiri merupakan aplikasi yang bergerak dalam E-Learning system yang akan membantu murid dan guru.Terdapat dua role yang ditawarkan oleh aplikasi LeaN yaitu role murid dan role guru. Fitur utama yang ditawarkan aplikasi LeaN antara lain, task viewer dan grade viewer untuk murid serta task manager untuk guru. Akses setiap role terhadap modul akan dijelaskan pada poin di bawah. 
 
@@ -35,16 +49,3 @@ Guru berperan untuk memberikan <i>task</i> yang nantinya akan dikerjakan oleh mu
 
 ### 2. Murid
 Murid berperan untuk mengunggah <i>file</i> yang akan dijadikan submission untuk <i>task</i> yang bersangkutan.
-
-<br></br>
-
-## 🐾 Demo
-Link: [Heroku](https://pbp-tk-e04.herokuapp.com)
-
-### Murid
-Username: student1
-Password: ma1234ma
-
-### Guru
-Username: teacher1
-Password: ma1234ma
