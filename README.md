@@ -49,3 +49,8 @@ Guru berperan untuk memberikan <i>task</i> yang nantinya akan dikerjakan oleh mu
 
 ### 2. Murid
 Murid berperan untuk mengunggah <i>file</i> yang akan dijadikan submission untuk <i>task</i> yang bersangkutan.
+
+<br></br>
+
+## 🍞 Projek Terkait
+[LeaN Web](https://github.com/bimasenaputra/lean-web)
