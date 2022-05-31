@@ -53,4 +53,4 @@ Murid berperan untuk mengunggah <i>file</i> yang akan dijadikan submission untuk
 <br></br>
 
 ## 🍞 Projek Terkait
-[LeaN Web](https://github.com/bimasenaputra/lean-web)
+[LeaN Flutter](https://github.com/bimasenaputra/lean-flutter)
