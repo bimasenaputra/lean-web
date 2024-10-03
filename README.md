@@ -1,5 +1,9 @@
 # LeaN: Learning eNvironment
+![Landing Page](https://drive.usercontent.google.com/download?id=1xsclsI7_voF5KF5RCu_jv32r-eUBAaGu)
 
+A final project for Platform-based Programming course to build a learning management system website and android app using Django Framework and Flutter that helps teachers and students to complete their school tasks. In this project, i built the grade viewer dashboard where users can easily search any of their graded submissions.
+
+Tech Stack: Django
 
 ## 🐾 Demo
 Link: [Heroku](https://pbp-tk-e04.herokuapp.com)
